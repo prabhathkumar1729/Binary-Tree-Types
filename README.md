@@ -10,7 +10,7 @@ Every binary tree node has these three components associated with it.
 
 These three binary tree components represent a node. The data resides in the middle. The left pointer points to the child node, forming the left sub-tree. The right pointer points to the child node at its right, creating the right subtree. 
 
-<h2>Types of Binary Trees</h2>
+## Types of Binary Trees
 
 1. Full Binary Tree
 2. Perfect Binary Tree
